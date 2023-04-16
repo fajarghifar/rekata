@@ -11,8 +11,7 @@ const showMenu = (toggleId, navId) => {
         toggle.classList.toggle('show-icon')
     })
 }
-
-showMenu('nav-toggle', 'nav-menu')
+showMenu('nav-toggle', 'nav-menu');
 
 function generateCard() {
     const getLocalStorageData = localStorage.getItem("available_cards");
@@ -46,7 +45,7 @@ function showCard(cards, card) {
         cardTotal.innerHTML = cards.length + '/60';
         cardCategory.innerHTML = card.category;
         cardQuestion.innerHTML = card.question;
-    }, 1800);
+    }, 4500);
 
     // Delete the card after openned
     cards.splice(card, 1);
@@ -65,13 +64,13 @@ function randomCardAnimation(){
     let i = 0;
     const startTime = new Date().getTime();
     setInterval(function(){
-        if(new Date().getTime() - startTime > 1800){
+        if(new Date().getTime() - startTime > 4500){
             clearInterval;
             return;
         }
         cardImage.setAttribute('src', 'img/'+ cardSrc[i++]);
         if(i == cardSrc.length) i = 0;
-    }, 130);
+    }, 140);
 }
 
 function getCards(){
