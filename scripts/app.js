@@ -1,3 +1,19 @@
+/*=============== SHOW MENU ===============*/
+const showMenu = (toggleId, navId) => {
+    const toggle = document.getElementById(toggleId),
+        nav = document.getElementById(navId)
+
+    toggle.addEventListener('click', () => {
+        // Add show-menu class to nav menu
+        nav.classList.toggle('show-menu')
+
+        // Add show-icon to show and hide the menu icon
+        toggle.classList.toggle('show-icon')
+    })
+}
+
+showMenu('nav-toggle', 'nav-menu')
+
 function generateCard() {
     const getLocalStorageData = localStorage.getItem("available_cards");
 
@@ -58,7 +74,7 @@ function randomCardAnimation(){
     }, 130);
 }
 
-const getCards = () => {
+function getCards(){
     fetch("cards.json")
     .then(data => data.json())
     .then(data => {
@@ -76,5 +92,20 @@ const getCards = () => {
         localStorage.setItem("available_cards", JSON.stringify(cards));
     });
 };
+
+function resetCards() {
+    let confirmText = "Apakah Anda yakin untuk mengulangi permainan?";
+    if (confirm(confirmText)) {
+        fetch("cards.json")
+        .then(data => data.json())
+        .then(data => {
+            const cards = data;
+            const cardTotal = document.getElementById("card-total");
+            cardTotal.innerHTML = cards.length + '/60';
+
+            localStorage.setItem("available_cards", JSON.stringify(cards));
+        });
+    }
+}
 
 window.addEventListener("load", getCards);
