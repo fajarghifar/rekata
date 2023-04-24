@@ -172,7 +172,7 @@
     },
     {
         "category": "Literasi Digital",
-        "question": "Kapan terakhir kamu mengganti password?",
+        "question": "Kapan terakhir kamu mengganti password media sosialmu?",
         "img": "4-4.webp"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
         "category": "Literasi Digital",
-        "question": "Apa keahlian di bidang digital yang harus kamu miliki untuk bertahan di era ini?",
+        "question": "Dalam skala 1-10, seberapa besar peran media sosial bagi pertemananmu?",
         "img": "4-6.webp"
     },
 
@@ -236,7 +236,7 @@
 
     {
         "category": "Kesehatan Mental",
-        "question": "Apa yang tidak kamu sukai dari dirimu sendiri?",
+        "question": "Apa yang kamu tidak sukai dari dirimu sendiri?",
         "img": "6-1.webp"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "category": "Kesehatan Mental",
-        "question": "Kapan menuturmu seseorang membutuhkan bantuan psikolog?",
+        "question": "Kapan menurutmu seseorang membutuhkan bantuan psikolog?",
         "img": "6-4.webp"
     },
     {
@@ -262,12 +262,12 @@
     {
         "category": "Kesehatan Mental",
         "question": "Apakah aktivitas favorit yang kamu lakukan untuk menghilangkan stres?",
-        "img": "6-5.webp"
+        "img": "6-6.webp"
     },
     {
         "category": "Kesehatan Mental",
         "question": "Apakah kejadian terakhir yang paling membuatmu tertekan?",
-        "img": "6-5.webp"
+        "img": "6-7.webp"
     },
 
 
