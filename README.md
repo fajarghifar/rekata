@@ -1,5 +1,5 @@
 <h1 align="center">
-  Kartu Bermain 1001 Bicara
+  Kartu Bermain 1001 Cara Bicara
 </h1>
 
 1001 Cara Bicara ini adalah salah satu produk dari [skata.info](https://skata.info) yang siapkan sebagai mitra kerja BKKBN untuk mendukung penguatan orangtua remaja. Agar orangtua dapat menjadi pendidik dan sumber informasi bagi anak-anak remaja mereka.
@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/71541409/232324856-46ec25de-22fd-4053-8ce4-0c8695eb9e83.png" width="90%"></img>
 </p>
 
-### [Demo](https://1001-bicara.netlify.app/)
+### [Demo](https://1001-cara-bicara.netlify.app/)
 
 ## 🚀 Quick Start
 
@@ -20,10 +20,10 @@
 
     ```bash
     # Clone this repository
-    $ git clone https://github.com/fajarghifar/1001-bicara.git
+    $ git clone https://github.com/fajarghifar/1001-cara-bicara.git
 
     # Go into the repository
-    $ cd 1001-bicara
+    $ cd 1001-cara-bicara
 
     # Open with text-editor
     $ code .
