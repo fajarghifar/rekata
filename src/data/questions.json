@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Jika nanti kamu memiliki anak remaja yang baru saja jatuh cinta, nasehat utama apa yang akan kamu bekalkan padanya?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 2,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Pernahkan kamu melakukan bullying pada teman? Mengapa?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 3,
+    "category": "Perencanaan Masa Depan",
+    "text": "Jika Tuhan mendadak memberimu portal waktu berdurasi semenit menembus masa depan diri tuamu, teka-teki takdir sakral pertama tentang hidup macam apa yang ingin sekali kau ketahui bocorannya darinya?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 4,
+    "category": "Rumah dan Keluarga",
+    "text": "Ditanyakan oleh anak: Apakah hal yang paling membuat Ayah/Ibu bangga kepadaku saat ini?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 5,
+    "category": "Prilaku Berisiko",
+    "text": "Bayangkan teman baikmu mengajakmu pergi tanpa izin orang tua malam ini, apakah kamu akan ikut?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 6,
+    "category": "Perencanaan Masa Depan",
+    "text": "Pilih mana: Merantau jauh sendirian mengejar karir yang bergengsi, atau hidup nyaman selamanya di kampung halaman dekat keluarga tersayang?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 7,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Seberapa penting menurutmu pendidikan dasar tentang kesehatan reproduksi disampaikan langsung oleh orang tua di rumah?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 8,
+    "category": "Rumah dan Keluarga",
+    "text": "Apa pendapatmu jika suatu saat kamu terpaksa harus hidup merantau jauh dari keluarga?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 9,
+    "category": "Perencanaan Masa Depan",
+    "text": "Bayangkan dirimu sedang menjalani masa pensiun tenang kelak pada usiamu yang ke enam puluh tahun, hal menyenangkan apa yang akan jadi rutinitas hari tuamu?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 10,
+    "category": "Literasi Digital",
+    "text": "Pernahkan kamu berhubungan dengan seseorang yang kamu kenal secara online? Dan bagaimana kemudian hubungan itu berjalan?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 11,
+    "category": "Kesehatan Mental",
+    "text": "Apakah aktivitas favorit yang kamu lakukan untuk menghilangkan stres?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 12,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Siapa yang mempengaruhi gaya dan prilakumu?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 13,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Ceritakan hal memalukan yang pernah terjadi di sekolah dan bagaimana kamu melaluinya",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 14,
+    "category": "Literasi Digital",
+    "text": "Aplikasi apa di HP-mu yang paling sering kamu buka saat merasa bosan? Berapa lama biasanya kamu memainkannya?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 15,
+    "category": "Rumah dan Keluarga",
+    "text": "Adakah tradisi atau kebiasaan keluarga kita yang paling kamu banggakan?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 16,
+    "category": "Kesehatan Mental",
+    "text": "Apakah ketakutan terbesar dalam hidupmu? Apakah hal tersebut akhirnya terjadi?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 17,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Apakah teman-temanmu ada yang sudah pernah melakukan seks pranikah?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 18,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Ceritakan satu kebohongan yang wajar diucapkan pada teman demi menjaga perasaannya!",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 19,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Apakah perubahan terbesar dalam hidupmu selama 10 tahun terakhir ini?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 20,
+    "category": "Rumah dan Keluarga",
+    "text": "Coba gambarkan dengan kata-katamu sendiri bagaimana hubungan di dalam keluarga kita",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 21,
+    "category": "Prilaku Berisiko",
+    "text": "Pernahkan kamu melanggar aturan sekolah? Apa hukuman terberat yang pernah kamu dapatkan?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 22,
+    "category": "Rumah dan Keluarga",
+    "text": "Apakah hal tersulit yang pernah/harus kamu sampaikan pada orangtua?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 23,
+    "category": "Literasi Digital",
+    "text": "Pernahkan kamu menyesali postingan/komentar yang kamu tulis di media sosial?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 24,
+    "category": "Literasi Digital",
+    "text": "Menurutmu, mengapa akhir-akhir ini banyak orang yang lebih berani berkomentar buruk menggunakan akun palsu di internet?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 25,
+    "category": "Perencanaan Masa Depan",
+    "text": "Umur berapa kamu berencana untuk menikah dan mengapa?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 26,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Pernahkan kamu menjadi korban bullying? Mengapa?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 27,
+    "category": "Rumah dan Keluarga",
+    "text": "Ditanyakan oleh orang tua: Sikap apa dari Ayah/Ibu yang paling kamu tidak sukai?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 28,
+    "category": "Literasi Digital",
+    "text": "Apa keahlian di bidang digital yang harus kamu miliki untuk bertahan di era ini?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 29,
+    "category": "Kesehatan Mental",
+    "text": "Adakah pengalaman buruk yang pernah terjadi padamu? Dan bagaimana kamu menanganinya?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 30,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Adakah teman yang tidak disukai oleh orang tuamu? Mengapa?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 31,
+    "category": "Kesehatan Mental",
+    "text": "Saat kepalamu dipenuhi beban masalah bertumpuk, apakah kamu biasanya lebih memilih menangis sendiri atau meluapkan kemarahan?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 32,
+    "category": "Rumah dan Keluarga",
+    "text": "Apakah pelajaran hidup terbaik yang pernah kamu alami?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 33,
+    "category": "Rumah dan Keluarga",
+    "text": "Adakah hal yang kamu selalu ingin sampaikan kepada anggota keluargamu, tapi tidak pernah kamu lakukan? Apa itu? Mengapa?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 34,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah kamu pernah menyembunyikan sesuatu yang besar atau berbahaya dari orang tua karena takut dimarahi?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 35,
+    "category": "Rumah dan Keluarga",
+    "text": "Apa momen favorit kamu di dalam keluarga?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 36,
+    "category": "Literasi Digital",
+    "text": "Kapan terakhir kamu mengganti password media sosialmu?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 37,
+    "category": "Kesehatan Mental",
+    "text": "Adakah satu bentuk cemilan ringan atau aktivitas sepele di rumah yang selalu ampuh mengembalikan senyummu di hari yang menyebalkan?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 38,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Apa yang kamu rasakan saat mimpi basah pertama?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 39,
+    "category": "Perencanaan Masa Depan",
+    "text": "Pernahkah kamu membayangkan tentang pernikahan? Seperti apa pernikahan yang kamu inginkan? Siapa/seperti apa sosok yang ingin kamu nikahi?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 40,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Apakah kenangan terindah yang pernah kamu alami masa sekolah yang masih kamu ingat hingga sekarang?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 41,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Ditanyakan oleh anak: Bagaimana ayah bertemu dengan ibu? Mengapa ayah menyukai ibu? \n Ditanyakan oleh orangtua: Bagaimana kamu bertemu dengan pacarmu? Mengapa menyukainya?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 42,
+    "category": "Rumah dan Keluarga",
+    "text": "Bagaimana caramu memberitahu orang tua jika kamu sedang mendapat masalah berberat di luar rumah?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 43,
+    "category": "Prilaku Berisiko",
+    "text": "Pernahkah kamu menyontek saat ujian? Apa yang kamu rasakan saat melakukannya?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 44,
+    "category": "Perencanaan Masa Depan",
+    "text": "Apakah pelajaran kesukaanmu?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 45,
+    "category": "Kesehatan Mental",
+    "text": "Apa yang kamu tidak sukai dari dirimu sendiri?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 46,
+    "category": "Rumah dan Keluarga",
+    "text": "Ditanyakan oleh anak: Hal apa yang kalian ingin kami tidak mengalaminya?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 47,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Pernahkah kamu merasa panik atau bingung karena tubuhmu mulai berubah cepat saat mengalami masa pubertas?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 48,
+    "category": "Literasi Digital",
+    "text": "Dalam skala 1-10, seberapa besar peran media sosial bagi pertemananmu?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 49,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Apa pendapatmu tentang seks pranikah?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 50,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Pernahkah kamu merasakan cinta pada pandangan pertama? Siapakah dia dan bagaimana rasanya? Apa yang terjadi dengannya?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 51,
+    "category": "Prilaku Berisiko",
+    "text": "Pernahkan kamu menolak ajakan teman untuk melakukan hal terlarang?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 52,
+    "category": "Literasi Digital",
+    "text": "Pernahkah akun media sosial atau game online kesayanganmu diretas (di-hack) orang lain? Bagaimana perasaanmu?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 53,
+    "category": "Rumah dan Keluarga",
+    "text": "Ditanyakan oleh anak: Hukuman terberat apa yang pernah/harus Ayah/Ibu berikan kepada kami? Apa alasannya?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 54,
+    "category": "Perencanaan Masa Depan",
+    "text": "Apa menurutmu peran terpenting seorang ayah atau ibu?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 55,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Ceritakan mitos atau kabar burung masa kecil tentang lawan jenis yang lucu dan sempat membuatmu sangat percaya!",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 56,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Dalam gaya pacaran remaja masa kini, layakkah seseorang menunjukkan kemesraan melalui kontak fisik terbuka di depan umum?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 57,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Siapakah selebriti yang kamu sukai dan mengapa kamu menyukainya?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 58,
+    "category": "Kesehatan Mental",
+    "text": "Siapa telinga pendengar pertama yang selalu siap membalut sedihmu saat tangisanmu benar-benar tak bisa lagi ditahan oleh mata?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 59,
+    "category": "Perencanaan Masa Depan",
+    "text": "Pernah bermimpi semu merintis sebuah ide restoran, toko inovatif, atau bisnis buatan karyamu sendiri? Rencana produk keren apa itu kira-kira?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 60,
+    "category": "Kesehatan Mental",
+    "text": "Apakah kejadian terakhir yang paling membuatmu tertekan?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 61,
+    "category": "Literasi Digital",
+    "text": "Adakah satu artis internet atau influencer yang menurutmu gaya hidupnya tidak memberikan contoh yang baik untuk remaja?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 62,
+    "category": "Kesehatan Mental",
+    "text": "Kapan menurutmu seseorang membutuhkan bantuan psikolog?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 63,
+    "category": "Perencanaan Masa Depan",
+    "text": "Pernahkah kamu berpikir tentang jurusan, universitas, dan kota tempat kamu akan menuntut ilmu? Jika pernah, ceritakan tentang hal tersebut?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 64,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Hal yang paling kamu suka atau tidak suka dari pertemananmu waktu remaja?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 65,
+    "category": "Kesehatan Mental",
+    "text": "Seberapa sering kamu berpura-pura kuat di hadapan teman-temanmu dengan cara terus memaksakan tersenyum?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 66,
+    "category": "Perencanaan Masa Depan",
+    "text": "Jika biaya hidupmu seumur hidup sudah ditanggung gratis oleh negara, profesi unik atau pekerjaan impian mana yang sebenarnya paling ingin kamu geluti?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 67,
+    "category": "Perencanaan Masa Depan",
+    "text": "Menurutmu apa kekuatan dan juga kelemahan terbesarmu?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 68,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Penyakit menular seksual apa yang kamu pernah dengar dan paling kamu takuti?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 69,
+    "category": "Prilaku Berisiko",
+    "text": "Pernahkah kamu atau temanmu terlibat tawuran atau pertengkaran fisik? Bagaimana kamu melerainya?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 70,
+    "category": "Prilaku Berisiko",
+    "text": "Pernahkan kamu membolos dari sekolah? Apa alasannya?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 71,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah pelajaran hidup terberat yang pernah kamu alami saat remaja?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 72,
+    "category": "Rumah dan Keluarga",
+    "text": "Apa sih arti keluarga bagimu? Adakah hal khusus yang kamu harapkan dari anggota keluargamu?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 73,
+    "category": "Literasi Digital",
+    "text": "Sebutkan tiga channel Youtube favoritmu dan kenapa kamu menyukainya?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 74,
+    "category": "Literasi Digital",
+    "text": "Pernahkah kamu bertengkar dengan teman sekelas hanya gara-gara salah paham membaca chat?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 75,
+    "category": "Kesehatan Mental",
+    "text": "Pernahkah kamu merasa sangat terpojok atau menangis kesepian, padahal di sekelilingmu banyak orang ramah berkumpul?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 76,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Apakah kamu memiliki geng/kelompok pertemanan tertentu? Anak tipe apakah kamu di sekolah?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 77,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah kamu pernah minum minuman keras? Apa alasannya?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 78,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Bagian apa dari tubuhmu yang paling kamu syukuri?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 79,
+    "category": "Prilaku Berisiko",
+    "text": "Mana yang kamu pilih: Kehilangan teman karena menolak ajakan atau melakukan hal beresiko dengan teman-teman?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 80,
+    "category": "Perencanaan Masa Depan",
+    "text": "Apakah capaian paling membanggakan yang pernah kamu raih di sekolah?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 81,
+    "category": "Kesehatan Mental",
+    "text": "Pernahkah kamu merasa kalau pujian kesuksesan yang orang berikan padamu rasanya tidak pantas karena kamu menganggap dirimu tak sehebat itu?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 82,
+    "category": "Perencanaan Masa Depan",
+    "text": "Adakah cita-cita atau impian yang masih ingin kamu raih?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 83,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Siapa pacar pertamamu dan kenapa kamu berpacaran dengannya?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 84,
+    "category": "Literasi Digital",
+    "text": "Lebih suka mengobrol panjang lebar lewat pesan WhatsApp, atau menghubungi lewat telepon secara langsung?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 85,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Apa pengalaman menarik tentang menstruasi pertamamu?",
+    "icon": "Heart",
+    "color": "pink"
+  },
+  {
+    "id": 86,
+    "category": "Perencanaan Masa Depan",
+    "text": "Pernahkah kamu berdebat dengan orangtua karena keputusan sepihak dalam menentukan jurusan kuliah lanjutan atau rute profesi mapanmu dilarang mentah-mentah?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 87,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah penyesalan yang kamu rasakan tentang masa sekolah?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 88,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Siapakah teman terbaikmu? Mengapa kamu menyukainya?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 89,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Memilih teman yang asyik tapi sering membicarakan orang lain, atau teman yang kaku tapi jujur tulus?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 90,
+    "category": "Pertemanan dan Relasi Sosial",
+    "text": "Pernahkah kamu merasa sangat dijauhi oleh teman-temanmu? Apa yang kamu rasakan dan lakukan saat itu?",
+    "icon": "Users",
+    "color": "emerald"
+  },
+  {
+    "id": 91,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah kamu pernah mencoba ganja? Apa alasannya?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 92,
+    "category": "Rumah dan Keluarga",
+    "text": "Siapa anggota keluarga yang paling sering kamu cari saat kamu sedang butuh uang atau bantuan mendadak?",
+    "icon": "Home",
+    "color": "indigo"
+  },
+  {
+    "id": 93,
+    "category": "Literasi Digital",
+    "text": "Seberapa sering kamu merasa tidak percaya diri ketika melihat gaya hidup teman di media sosial?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 94,
+    "category": "Kesehatan Mental",
+    "text": "Apakah kamu tipe yang sering overthinking menjelang tidur malam? Hal atau masalah seperti apa yang biasanya kamu takutkan?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 95,
+    "category": "Perencanaan Masa Depan",
+    "text": "Andaikata esok pagi kamu tak sengaja menemukan hadiah koper misterius berisi miliaran rupiah tunai berkat menolong orang, keinginan mulia pertama apakah yang akan kau wujudkan untuk dirimu dan keluarga?",
+    "icon": "Map",
+    "color": "amber"
+  },
+  {
+    "id": 96,
+    "category": "Kesehatan Mental",
+    "text": "Apakah trauma yang pernah kamu alami yang jangan sampai terjadi pada anggota keluargamu?",
+    "icon": "Brain",
+    "color": "violet"
+  },
+  {
+    "id": 97,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah kamu pernah berurusan dengan polisi? Jika pernah, hukuman apa yang pernah kamu dapatkan?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 98,
+    "category": "Literasi Digital",
+    "text": "Jika harus dihukum tidak boleh memegang HP selama seminggu penuh, hal apa yang paling membuatmu menderita?",
+    "icon": "MonitorSmartphone",
+    "color": "sky"
+  },
+  {
+    "id": 99,
+    "category": "Prilaku Berisiko",
+    "text": "Apakah melanggar peraturan itu menimbulkan rasa bangga di antara teman-teman?",
+    "icon": "AlertTriangle",
+    "color": "rose"
+  },
+  {
+    "id": 100,
+    "category": "Kesehatan Seksual dan Reproduksi",
+    "text": "Jika ada temanmu yang melakukan seks pranikah, apakah kamu akan menasihatinya?",
+    "icon": "Heart",
+    "color": "pink"
+  }
+]
