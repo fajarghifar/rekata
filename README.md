@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">rekata.</h1>
+  <h1 align="center">rekata<span style="color: #0ea5e9;">.</span></h1>
   <h3>Meaningful conversations, one card at a time.</h3>
 </div>
 
