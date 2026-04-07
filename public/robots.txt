@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Merujuk bot menuju file sitemap agar memprioritaskan antrean Indexing
+Sitemap: https://rekata.netlify.app/sitemap.xml
