@@ -9,7 +9,7 @@
 
 In a world full of digital distractions, Rekata provides a deck of curated "Deep Talk" questions to break the ice and dive into topics that actually matter—all wrapped in a premium, glassmorphism-inspired interface.
 
-![Dashboard Preview](public/rekata.png)
+![Dashboard Preview](public/images/screenshot.png)
 
 ## ✨ Features
 
