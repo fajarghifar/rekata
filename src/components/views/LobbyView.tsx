@@ -19,7 +19,7 @@ export default function LobbyView({
   const canStart = players.length >= 2
 
   return (
-    <div className="w-full max-w-xl mx-auto my-auto flex flex-col items-center transform -translate-y-6 md:-translate-y-10">
+    <div className="w-full max-w-xl flex flex-col items-center">
 
       {/* Primary Setup Panel */}
       <div className="

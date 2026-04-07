@@ -62,23 +62,25 @@ export default function Layout({
       </div>
 
       {/* Main Content Centered with Safe Vertical Padding: No-Scroll Bounds Protected */}
-      <div className="w-full max-w-2xl flex-1 flex flex-col relative z-10 animate-fade-in-up pt-28 pb-10" style={{ animationDelay: '50ms' }}>
+      <div className="w-full max-w-2xl flex-1 flex flex-col relative z-10 animate-fade-in-up py-20" style={{ animationDelay: '50ms' }}>
 
-        {/* Compact Hero Header (Only in Lobby mode) */}
-        {mode === 'lobby' && (
-          <div className="text-center mb-16 md:mb-20 transition-all duration-300 shrink-0">
-            <h1 className="text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
-              rekata<span className="text-sky-500">.</span>
-            </h1>
-            <p className="text-slate-400/90 text-sm font-medium mt-1 mb-0 mx-auto tracking-wide">
-              Persiapkan diri untuk percakapan yang lebih bermakna
-            </p>
+        <div className="w-full my-auto flex flex-col items-center">
+          {/* Compact Hero Header (Only in Lobby mode) */}
+          {mode === 'lobby' && (
+            <div className="text-center mb-10 sm:mb-12 transition-all duration-300 shrink-0">
+              <h1 className="text-5xl font-extrabold text-slate-900 tracking-tight leading-tight">
+                rekata<span className="text-sky-500">.</span>
+              </h1>
+              <p className="text-slate-400/90 text-sm font-medium mt-1 mb-0 mx-auto tracking-wide">
+                Persiapkan diri untuk percakapan yang lebih bermakna
+              </p>
+            </div>
+          )}
+
+          {/* Dynamic App Layout View Container */}
+          <div className="w-full flex justify-center">
+            {children}
           </div>
-        )}
-
-        {/* Dynamic App Layout View Container */}
-        <div className="w-full flex justify-center">
-          {children}
         </div>
 
       </div>
